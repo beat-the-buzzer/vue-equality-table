@@ -1,5 +1,9 @@
 ### 宽松相等和严格相等
 
+项目演示地址：
+
+[https://beat-the-buzzer.github.io/vue-equality-table/#/](https://beat-the-buzzer.github.io/vue-equality-table/#/)
+
 宽松相等（loose equals） == 和严格相等（strict equals）=== 一直困扰着众多开发者。和Java这样的语言不同，JavaScript更加自由，但是自由的代价就是容易出错。下面就来深入研究一下宽松相等和严格相等。
 
 ![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-1.jpg](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-1.jpg)
