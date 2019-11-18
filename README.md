@@ -6,7 +6,7 @@
 
 宽松相等（loose equals） == 和严格相等（strict equals）=== 一直困扰着众多开发者。和Java这样的语言不同，JavaScript更加自由，但是自由的代价就是容易出错。下面就来深入研究一下宽松相等和严格相等。
 
-![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-1.jpg](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-1.jpg)
+![https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-1.jpg](https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-1.jpg)
 
 > 误解：== 检查值是否相等，=== 除了检查值之外，还检查了类型是否相同。
 
@@ -165,7 +165,7 @@ Array.prototype.valueOf = function() {
 
 这就是传说中的指鹿为马！
 
-![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-2.jpg](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-2.jpg)
+![https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-2.jpg](https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-2.jpg)
 
 5、特殊情况
 
@@ -195,10 +195,10 @@ GitHub用户dorey制作了几个图表，其中包括了各种 == === 和 if()�
 
 项目运行截图：
 
-![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-3.png](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-3.png)
+![https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-3.png](https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-3.png)
 
-![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-4.png](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-4.png)
+![https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-4.png](https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-4.png)
 
-![https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-5.png](https://raw.githubusercontent.com/beat-the-buzzer/pictures/master/imooc/imooc008-5.png)
+![https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-5.png](https://gitee.com/beat-the-buzzer/pictures/raw/master/imooc/imooc008-5.png)
 
 相信看到这里，第一张图片里面，派大星的问题应该可以轻松解决了。
